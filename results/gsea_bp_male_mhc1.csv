@@ -1,0 +1,3 @@
+"","ID","Description","setSize","enrichmentScore","NES","pvalue","p.adjust","qvalue","rank","leading_edge","core_enrichment"
+"GO:0019755","GO:0019755","one-carbon compound transport",11,-0.882216158672911,-2.19641911351029,3.56317213289454e-06,0.00937470588164553,0.00908421358512692,228,"tags=91%, list=8%, signal=84%","AQP1/HBA2/CA4/CA2/SLC4A1/HBB/HBD/HBG1/HBG2/RHAG"
+"GO:0015669","GO:0015669","gas transport",11,-0.858803057506989,-2.13812842998355,2.21017166402942e-05,0.0290748082403071,0.028173872475154,228,"tags=91%, list=8%, signal=84%","AQP1/HBA2/MB/CA2/BPGM/HBB/HBD/HBG1/HBG2/RHAG"
